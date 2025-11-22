@@ -2,4 +2,4 @@
 Guide
 Add all JSON files - done
 Add Python script - in progress for base and celo
-Add procedure for pinata
+Add procedure for pinata - in progress
