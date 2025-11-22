@@ -1,5 +1,5 @@
 # IPFS-and-metadata-for-NFT
 Guide
 Add all JSON files - done
-Add Python script - in progress
+Add Python script - in progress base nerwork
 Add procedure for pinata - in progress
