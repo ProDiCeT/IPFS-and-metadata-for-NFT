@@ -1,0 +1,15 @@
+{
+  "name": "MyNFT #564",
+  "description": "exclusive collection of 2000 NFT",
+  "image": "ipfs://<your CID>",
+  "attributes": [
+    {
+      "trait_type": "Edition",
+      "value": "565/2000"
+    },
+    {
+      "trait_type": "Number",
+      "value": "564"
+    }
+  ]
+}
